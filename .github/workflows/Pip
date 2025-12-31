@@ -1,0 +1,6 @@
+pip install pysonar
+
+pysonar \
+  --sonar-token=31bab402092f6806066c7e93e6a88a893803f74b \
+  --sonar-project-key=craigthelegend-alt_Code-Test \
+  --sonar-organization=craigthelegend-alt
